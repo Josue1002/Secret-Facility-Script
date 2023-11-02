@@ -1,0 +1,1 @@
+Point A to B's logic varies off assigned block part names
